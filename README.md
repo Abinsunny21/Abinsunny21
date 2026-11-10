@@ -1,85 +1,75 @@
-Hi there, I'm Abin Sunny! 👋
+Hi, I'm Abin Sunny 👋
 
-🎓 BCA Graduate | Aspiring Python Developer
+BCA Graduate | Aspiring Python Developer
 
-I'm a Computer Applications graduate with a strong interest in software development, particularly in Python programming, web application development, and enterprise business solutions.
+I'm a Computer Applications graduate passionate about software development and building practical applications. My primary interests include Python development, Frappe Framework, ERPNext, and Django.
 
-I enjoy building custom applications, exploring modern development technologies, solving real-world problems, and continuously improving my technical skills. I'm particularly interested in the Frappe Framework and ERPNext ecosystem, along with Django-based web development.
+I enjoy learning new technologies, developing custom applications, solving real-world problems, and continuously improving my technical skills.
 
-🚀 About Me
+---
 
-- 🎓 Bachelor of Computer Applications (BCA) Graduate.
-- 🐍 Aspiring Python Developer with hands-on programming experience.
-- ⚙️ Exploring Frappe Framework and ERPNext application development.
-- 🌐 Interested in backend development using Python and Django.
-- 💻 Exploring frontend development with JavaScript, HTML and CSS.
-- 🗄️ Working with relational databases such as MariaDB and MySQL.
-- 🔗 Interested in API integration and custom application development.
-- 📚 Currently expanding my knowledge in Data Science.
-- 🤝 Enjoy collaborating, learning new technologies, and solving technical challenges.
+About Me
 
-🛠️ Technical Skills
+- 🎓 BCA Graduate
+- 🐍 Aspiring Python Developer
+- ⚙️ Exploring Frappe Framework & ERPNext
+- 🌐 Interested in Django and JavaScript development
+- 🗄️ Working with MariaDB and MySQL
+- 🔗 Interested in API integration and backend development
+- 📚 Currently expanding my knowledge in Data Science
+- 💡 Passionate about learning and building useful applications
 
-Programming Languages
+Technical Skills
+
+Languages
 
 - Python
 - JavaScript
 - PHP
+- HTML & CSS
 
-Frameworks & Platforms
+Frameworks
 
 - Frappe Framework
 - ERPNext
 - Django
-
-Frontend Technologies
-
-- HTML5
-- CSS3
-- JavaScript
 
 Databases
 
 - MariaDB
 - MySQL
 
-Other Technical Interests
-
-- REST API Integration
-- Web Application Development
-- Role-Based Access Control
-- Business Process Automation
-- Database Management
-
-Tools & Development Environment
+Tools
 
 - Git & GitHub
-- Visual Studio Code
+- VS Code
 - Linux
 
-💼 Experience & Learning
+Experience
 
-- Python Developer Intern – Faircode Infotech Pvt. Ltd.
-- Python Programming Intern – Pantech eLearning Pvt. Ltd.
-- Completed practical training in Python programming and problem-solving.
-- Gaining hands-on experience in developing custom applications using Frappe Framework and Django.
+- Python Developer Intern — Faircode Infotech Pvt. Ltd.
+- Python Programming Intern — Pantech eLearning Pvt. Ltd.
 
-🎯 Currently Focused On
+Certifications
 
-- Strengthening Python programming and backend development skills.
-- Exploring advanced Frappe Framework and ERPNext development.
-- Improving Django and JavaScript development skills.
-- Understanding database design and API integration.
-- Building efficient, scalable, and user-friendly applications.
-- Continuously learning and growing as a software developer.
+- Artificial Intelligence Fundamentals — IBM SkillsBuild
+- Customer Engagement: Problem Solving and Process Controls — IBM SkillsBuild
 
-📜 Certifications
+Currently Learning
 
-- Artificial Intelligence Fundamentals – IBM SkillsBuild
-- Customer Engagement: Problem Solving and Process Controls – IBM SkillsBuild
+- Advanced Python Development
+- Frappe Framework & ERPNext
+- Django Web Development
+- JavaScript
+- Data Science
 
-🌱 My Developer Journey
+---
 
-I believe that learning never stops in technology. I'm always curious to explore new tools, experiment with different technologies, and turn ideas into practical software solutions.
+Connect With Me
 
-Thanks for visiting my profile! Let's connect, collaborate, and build something useful. 🚀
+- Email: abinsunny016@gmail.com
+- GitHub: "Abin Sunny" (https://github.com/YOUR_USERNAME)
+
+---
+
+Always learning, building, and improving.
